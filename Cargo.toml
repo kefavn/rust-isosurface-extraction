@@ -15,4 +15,4 @@ cgmath = "0.12.*"
 log = "*"
 
 [dependencies.voxel-data]
-git = "https://github.com/bfops/rust-voxel-data"
+git = "https://github.com/kefavn/rust-voxel-data"
